@@ -7,7 +7,7 @@
 
 ### build
 
-* `make build`
+* `make all`
 
 ### bugs
 
